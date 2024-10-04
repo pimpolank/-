@@ -38,6 +38,7 @@ echo "+${line}+"
 echo "| ${text} |"
 echo "+${line}+"
 ```
+![Задание 3](https://github.com/user-attachments/assets/36d845da-8dfe-4d31-a88b-f97f546cff55)
 
 ## Задача 4
 
