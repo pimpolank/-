@@ -31,7 +31,7 @@ pipdeptree --packages matplotlib --graph-output dot > matplotlib_deps.dot
 
 ## Задача 6
 Решить на MiniZinc задачу о зависимостях пакетов для следующих данных:
-```bash
+```
 root 1.0.0 зависит от foo ^1.0.0 и target ^2.0.0.
 foo 1.1.0 зависит от left ^1.0.0 и right ^1.0.0.
 foo 1.0.0 не имеет зависимостей.
